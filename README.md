@@ -12,7 +12,7 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/darshandesmacv/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/darshandesmacv/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
 </p>
 
-(Data Science| Python | R | MySQl| PostreSQL| Power BI | Tableau| AWS | BigQuery | Data Visualization | Advanced Excel| Data Cleaning and Transformation ) 
+(Data Science| Python | R | MySQl| Database Management System| PostreSQL| Power BI | Tableau| AWS | BigQuery | Data Visualization | Advanced Excel| Data Cleaning and Transformation ) 
 - Data Analyst
 - Ex Associate Software Engineer @ Tech Mahindra
 - Master's at University of Colorado Denver in Computer Science
