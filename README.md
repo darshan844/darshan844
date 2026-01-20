@@ -13,7 +13,6 @@
 </p>
 
 (Data Science| Data Analyst| Python | R | MySQl| Database Management System| PostreSQL| Power BI | Tableau| AWS | BigQuery | Data Visualization | Advanced Excel| Data Cleaning and Transformation ) 
-- Data Analyst
 - Ex Associate Software Engineer @ Tech Mahindra
 - Master's at University of Colorado Denver in Computer Science
 - Bachelor's degree in Computer Science and Engineering
