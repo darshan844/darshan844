@@ -17,4 +17,3 @@
     <img src="https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
   </a>
 </p>
----
